@@ -1,0 +1,14 @@
+{
+    "name": "HKube npm package workflow",
+    "description": "Workflow template for npm packages",
+    "iconName": "example-icon",
+    "categories": [
+        "JavaScript",
+        "NPM"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
